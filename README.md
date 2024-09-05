@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... AI/ML
 - 🌱 I’m currently learning ... Genai
 - 💞️ I’m looking to collaborate on ... Data science related jobs
-- 📫 How to reach me ...linkedin
+- 📫 How to reach me ... 8340064872
 - 😄 Pronouns: ...Mr.
 - ⚡ Fun fact: ...
 
