@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ARUNRAJDAARA
-- 👀 I’m interested in ... AI/ML
+- 👀 I’m interested in ... AI/ML-->GenAI
 - 🌱 I’m currently learning ... Genai
 - 💞️ I’m looking to collaborate on ... Data science related jobs
 - 📫 How to reach me ... 8340064872
